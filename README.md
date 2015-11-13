@@ -24,7 +24,6 @@ IntelliJ 15 includes support for some colorblind and color-deficient users, but 
 ## Details
 Complete color blindness is very rare. Most people who cannot see the full color spectrum have either a **dichromacy** (complete blindness of red, blue, or green) or a **trichromacy** (partial blindness of red, blue, or green). The settings used to create these files were targeted for dichromats, and therefore should also work for trichromats.
 
-col
 Type | Description
 ------------- | -------------
 Protanopia/Protanomaly  | Red-deficient. Difficult to distinguish red/green. Colors that contain red may appear more dull.
